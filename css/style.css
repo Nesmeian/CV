@@ -1,0 +1,54 @@
+/*! Common  Start*/
+.wrapper{
+    max-width: 1000px;
+    margin: 0 auto;
+}
+/* Common END */
+
+
+/*! HEADER Start */
+
+.header{
+    
+    width: 100vw;
+    height: 10vh;
+    background: burlywood;
+}
+
+.header__nav{
+    /* padding: 10px 20px; */
+    margin: 0;
+}
+
+.header__list{
+    display: flex;
+    margin: 0;
+    padding: 20px 20px ;    
+    list-style-type: none;
+    flex-direction: row;
+    justify-content: space-around;
+    list-style-type: none;
+}
+
+.header__link{
+    color: black;
+    text-decoration: none;
+}
+
+.header__link:hover{
+    color: blanchedalmond;
+}
+
+/* Header End */
+
+/* Main Start */
+
+
+
+/* Main End */
+
+/* Footer Start */
+
+
+
+/* Footer End */
