@@ -2,13 +2,13 @@
 
 ## Contacts
 
-- Telephone number +375295722691
+- instagram:leo_kozlovskiy
 
 - mail:lenya.kozlovskiy.97@mail.ru
 
 ## About me
 
-- I want to become a high-quality specialist and acquire useful skills.Versatility.Every day I trying to learn something new.
+- I want to become a high-quality specialist and acquire useful skills.My best feature is versatility.Every day I trying to learn something new.i spend a lot of time reading books, go to the gym three times at week, also I like sometime to watch intresting movie or serial. 
 
 ## Skills
 
@@ -26,7 +26,7 @@ function litres(time) {
 
 ## Education
 
-- veterinarian,i have higher education, finish GGAU(Grodno Government Agrarian University) Faculty of Veterinary Medicine.
+- 2014 - 2019 GGAU(Grodno Government Agrarian University) Faculty of Veterinary Medicine.
 
 ## English level
 

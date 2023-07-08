@@ -1,0 +1,132 @@
+/*! Common  Start*/
+.wrapper{
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 0 10px;
+}
+.wrapper__footer{
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 0 10px;
+    margin: 0px 53px;
+}
+
+.main{
+    width: 100vw;
+}
+
+.footer{
+    width: 100vw;
+    height: 10vh;
+}
+
+.left-side{
+    width: 30vw;
+}
+
+.right-side{
+    width: 70vw;
+    padding-left: 30px;
+}
+
+/* Common END */
+
+
+/*! HEADER Start */
+
+.header{
+    display: flex;
+    align-content: center;
+}
+
+.header__nav{
+    background: burlywood;
+    margin: 0 34px 0 53px;
+}
+
+.header__nav_item{
+    padding:0 31px;
+}
+
+.header__nav_item:nth-child(1){
+    padding-left: 88px;
+}
+
+.header__nav_item:nth-child(7){
+    padding-right:40px;
+}
+
+.header__nav_list{
+    display: flex;
+    margin: 0;
+    padding: 0 20px ;    
+    list-style-type: none;
+    flex-direction: row;
+    justify-content: space-around;
+    list-style-type: none;
+}
+
+.link{
+    color: black;
+    text-decoration: none;
+}
+
+.header__link:hover{
+    color: blanchedalmond;
+}
+
+/* Header End */
+
+/* !Main Start */
+.main__section{
+    padding: 0px 53px;
+}
+
+.left-side{
+    background-color: antiquewhite;
+}
+
+.profile_image{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.profile_img{
+    height: 120px;
+    width: 209px;
+}
+
+.right-side{
+    background-color: aqua;
+}
+
+.main__section{
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.contacts__list{
+    list-style-type: none;
+}
+/* Main End */
+
+
+/* Footer Start */
+
+
+.footer__container{
+    width: 100%;
+    background-color: blueviolet;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.footer__gitHub_img{
+    width: 20px;
+    height: 20px;
+}
+
+/* Footer End */
