@@ -1,0 +1,134 @@
+/*! Common  Start*/
+body{
+    font-family:cursive
+}
+
+.wrapper{
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 0 10px;
+}
+
+.wrapper__header{
+    max-width: 895px;
+    margin: 0 auto;
+    padding: 0 10px;
+}
+
+.wrapper__footer{
+    max-width: 895px;
+    margin: 0 auto;
+    padding: 0 10px;
+}
+
+.header{
+    width:100vw
+}
+
+.main{
+    width: 100vw;
+}
+
+.footer{
+    width: 100vw;
+    height: 10vh;
+}
+
+.left-side{
+    width: 30vw;
+}
+
+.right-side{
+    width: 70vw;
+    padding-left: 30px;
+}
+
+.link{
+    color: black;
+    
+    transition: 0.5s;
+}
+
+.link:hover{
+    color: blanchedalmond;
+}
+
+/* Common END */
+
+
+/*! HEADER Start */
+
+.header__nav{
+    background: grey;
+    padding: 0;
+   width: 895px;
+}
+
+.header__nav_item{
+    padding:10px 31px;
+}
+.header__nav_list{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    list-style: none;
+    margin: 0 auto;
+    padding: 0;
+}
+
+/* Header End */
+
+/* !Main Start */
+.main__section{
+    padding: 0px 53px;
+}
+
+.left-side{
+    background-color: dimgrey;
+}
+
+.profile_image{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.profile_img {
+    border-radius: 6px;
+    height: 145px;
+    width: 282px;
+}
+
+.right-side{
+    background-color: darkgrey;
+}
+
+.main__section{
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.contacts__list{
+    list-style-type: none;
+}
+/* Main End */
+
+
+/* Footer Start */
+
+
+.footer__container{
+    width: 100%;
+    background-color: lightgrey;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.footer__gitHub_img{
+    width: 20px;
+    height: 20px;
+}
+
+/* Footer End */
